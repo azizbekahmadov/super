@@ -22,3 +22,6 @@
 .marj li:not(:last-child){
     margin-right: 30px;
     }
+p{
+    color: crimson;
+}
