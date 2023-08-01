@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.son1{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.marj ul{
+    display: flex;
+    list-style: none;
+}
+.marj li:not(:last-child){
+    margin-right: 30px;
+    }
